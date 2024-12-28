@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Janet Rodríguez</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Dec 2024 15:19:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Art Papi y su visión de Puerto Rico</title>
+		<link>/art-papi-y-su-vision-de-puerto-rico/</link>
+					<comments>/art-papi-y-su-vision-de-puerto-rico/#respond</comments>
+		
+		<dc:creator><![CDATA[rgjanet]]></dc:creator>
+		<pubDate>Thu, 26 Dec 2024 15:19:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=28</guid>
+
+					<description><![CDATA[Miguel Figueroa es el creador de Art Papi, una publicación inspirada en las revistas de los 90 y 2000 y que es la visión de un Puerto Rico sexy, opinionado y político.]]></description>
+										<content:encoded><![CDATA[
+<p>Miguel Figueroa es el creador de Art Papi, una publicación inspirada en las revistas de los 90 y 2000 y que es la visión de un Puerto Rico sexy, opinionado y político.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="ART PAPI: LA HISTORIA CONTEMPORÁNEA Y SUBCULTURA DE PUERTO RICO" width="500" height="281" src="https://www.youtube.com/embed/GpT2RlB4WJ0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/art-papi-y-su-vision-de-puerto-rico/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
